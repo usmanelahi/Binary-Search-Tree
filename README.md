@@ -1,2 +1,2 @@
 # Binary-Search-Tree
-Implementation of 16 MAJOR BST Functions in C++
+Implementation of 16 MAJOR BST Functions
